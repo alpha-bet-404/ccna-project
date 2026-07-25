@@ -2,7 +2,7 @@
   <h1>🌐 Multi-Site Enterprise Network Simulation</h1>
   <p><i>Building a complete enterprise-style network simulation using Cisco Packet Tracer.</i></p>
 
-  <a href="***REMOVED***" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
